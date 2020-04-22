@@ -1,8 +1,8 @@
 ﻿{
-  "batchAccountName": "",
-  "batchAccountKey": "",
-  "batchServiceUrl": "",
-  "storageAccountName": "",
-  "storageAccountKey": "",
+  "batchAccountName": "az203udemycoursejqg",
+  "batchAccountKey": "UMtrSWwcmdipZwdjXNz+nJKrbfrJgAvTRYYECzE28p+luhoHf/X/gnCDQHaGeSkPQ2vPqTddI2J/SZHOk/RXEQ==",
+  "batchServiceUrl": "https://az203udemycoursejqg.eastus.batch.azure.com",
+  "storageAccountName": "az203jqgbatchstorage",
+  "storageAccountKey": "FK92Z/bL4pcEb6XfEFk1QyOANgZ5MbSF6NdvXbkCo/EgPOHDQ7HZqSfmSrG8fXRcX25SGQGs+0GH1yHyYFO7jA==",
   "storageServiceUrl": "core.windows.net"
 }

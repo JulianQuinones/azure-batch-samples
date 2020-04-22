@@ -74,7 +74,7 @@ namespace Microsoft.Azure.Batch.Samples.JobManager
 
             CloudStorageAccount cloudStorageAccount = new CloudStorageAccount(
                 new StorageCredentials(this.accountSettings.StorageAccountName,
-                    this.accountSettings.StorageAccountKey),
+                                       this.accountSettings.StorageAccountKey),
                     this.accountSettings.StorageServiceUrl,
                     useHttps: true);
 

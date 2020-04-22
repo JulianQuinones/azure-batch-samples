@@ -26,7 +26,7 @@ namespace Microsoft.Azure.Batch.Samples.JobManager
                 // Go through all exceptions and dump useful information
                 SampleHelpers.PrintAggregateException(aggregateException);
 
-                throw;
+                 throw;
             }
 
             Console.WriteLine("Press return to exit...");
